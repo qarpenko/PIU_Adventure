@@ -1,0 +1,612 @@
+fileFormatVersion: 2
+guid: 2d37ccb0453e7b14ebeb6fe05ca3b5e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1040031539251884374
+    second: MyGirlParts5 1_v_0
+  - first:
+      213: -6918482314363614860
+    second: MyGirlParts5 1_v_1
+  - first:
+      213: -8555650350352508202
+    second: MyGirlParts5 1_v_4
+  - first:
+      213: 1874753566869718704
+    second: MyGirlParts5 1_v_5
+  - first:
+      213: -6245688639021948515
+    second: MyGirlParts5 1_v_8
+  - first:
+      213: -2031124225161995478
+    second: MyGirlParts5 1_v_27
+  - first:
+      213: -6125744044051703958
+    second: MyGirlParts5 1_v_29
+  - first:
+      213: -2362923183020597371
+    second: MyGirlParts5 1_v_30
+  - first:
+      213: 2404057684190966832
+    second: MyGirlParts5 1_v_31
+  - first:
+      213: -8677119928003085225
+    second: MyGirlParts5 1_v_35
+  - first:
+      213: -7803630298836578196
+    second: MyGirlParts5 1_v_36
+  - first:
+      213: 6157916303767041685
+    second: MyGirlParts5 1_v_37
+  - first:
+      213: -1939590478086774326
+    second: MyGirlParts5 1_v_38
+  - first:
+      213: -8773736718674177133
+    second: MyGirlParts5 1_v_39
+  - first:
+      213: 3822591886043576500
+    second: MyGirlParts5 1_v_40
+  - first:
+      213: -7989641623334951965
+    second: MyGirlParts5 1_v_10
+  - first:
+      213: -7435660091953257699
+    second: MyGirlParts5 1_v_11
+  - first:
+      213: -4932938539938288037
+    second: MyGirlParts5 1_v_2
+  - first:
+      213: 6030406284018285205
+    second: MyGirlParts5 1_v_3
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 600
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MyGirlParts5 1_v_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1586
+        width: 642
+        height: 1077
+      alignment: 9
+      pivot: {x: 0.5069669, y: 0.07183866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651bf44bc2fee6e00800000000000000
+      internalID: 1040031539251884374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyGirlParts5 1_v_1
+      rect:
+        serializedVersion: 2
+        x: 3443
+        y: 226
+        width: 140
+        height: 320
+      alignment: 9
+      pivot: {x: 0.45730853, y: 0.46765345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479c883adfc9cff90800000000000000
+      internalID: -6918482314363614860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyGirlParts5 1_v_4
+      rect:
+        serializedVersion: 2
+        x: 3411
+        y: 1956
+        width: 149
+        height: 728
+      alignment: 9
+      pivot: {x: 0.5600373, y: 0.94849235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dadacc0659344980800000000000000
+      internalID: -8555650350352508202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyGirlParts5 1_v_5
+      rect:
+        serializedVersion: 2
+        x: 3656
+        y: 1955
+        width: 161
+        height: 742
+      alignment: 9
+      pivot: {x: 0.63890237, y: 0.92194706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b68aaaaf66740a10800000000000000
+      internalID: 1874753566869718704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyGirlParts5 1_v_8
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1684
+        width: 375
+        height: 547
+      alignment: 9
+      pivot: {x: 0.15582031, y: 0.9051547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91676d164bd259a0800000000000000
+      internalID: -6245688639021948515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyGirlParts5 1_v_27
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 966
+        width: 678
+        height: 653
+      alignment: 9
+      pivot: {x: 0.49340317, y: 0.089037955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b5780574fffc3e0800000000000000
+      internalID: -2031124225161995478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyGirlParts5 1_v_29
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 1257
+        width: 131
+        height: 293
+      alignment: 9
+      pivot: {x: 0.56828576, y: 0.8358296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67555d5f3cfcfaa0800000000000000
+      internalID: -6125744044051703958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyGirlParts5 1_v_30
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 552
+        width: 639
+        height: 1040
+      alignment: 9
+      pivot: {x: 0.5069996, y: 0.070502765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f958462e5353fd0800000000000000
+      internalID: -2362923183020597371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyGirlParts5 1_v_31
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 810
+        width: 439
+        height: 602
+      alignment: 9
+      pivot: {x: 0.17397647, y: 0.8732855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03430cdf9bdec5120800000000000000
+      internalID: 2404057684190966832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyGirlParts5 1_v_35
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 195
+        width: 539
+        height: 346
+      alignment: 9
+      pivot: {x: 0.14125781, y: 0.8090294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75cb9e9166da49780800000000000000
+      internalID: -8677119928003085225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyGirlParts5 1_v_36
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 164
+        width: 361
+        height: 376
+      alignment: 9
+      pivot: {x: 0.69823307, y: 0.8330688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60de5fa69fe3b390800000000000000
+      internalID: -7803630298836578196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyGirlParts5 1_v_37
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 126
+        width: 367
+        height: 762
+      alignment: 9
+      pivot: {x: 0.81189996, y: 0.93182856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596fe929040557550800000000000000
+      internalID: 6157916303767041685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyGirlParts5 1_v_38
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 183
+        width: 318
+        height: 426
+      alignment: 9
+      pivot: {x: 0.8656881, y: 0.8569709}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac168ef8cb03515e0800000000000000
+      internalID: -1939590478086774326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyGirlParts5 1_v_39
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 213
+        width: 209
+        height: 488
+      alignment: 9
+      pivot: {x: 0.20039856, y: 0.9124357}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393df9a80fc6d3680800000000000000
+      internalID: -8773736718674177133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyGirlParts5 1_v_40
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 1064
+        width: 465
+        height: 434
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8fae041139c0530800000000000000
+      internalID: 3822591886043576500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyGirlParts5 1_v_10
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 1603
+        width: 407
+        height: 479
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3e17646471f1190800000000000000
+      internalID: -7989641623334951965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyGirlParts5 1_v_11
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 1713
+        width: 429
+        height: 363
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13e39cca8a3fc890800000000000000
+      internalID: -7435660091953257699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyGirlParts5 1_v_2
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 2191
+        width: 461
+        height: 447
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ee424a88eaa8bb0800000000000000
+      internalID: -4932938539938288037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyGirlParts5 1_v_3
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 1658
+        width: 407
+        height: 371
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a713a909e40b350800000000000000
+      internalID: 6030406284018285205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1212 @@
+fileFormatVersion: 2
+guid: 9c113379715860f48adaeab3bd33a5fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7161135557178893223
+    second: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_0
+  - first:
+      213: 8742303169478688394
+    second: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_1
+  - first:
+      213: 2133917583332712604
+    second: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_2
+  - first:
+      213: 8009751483915890180
+    second: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_3
+  - first:
+      213: -8477749396254264105
+    second: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_4
+  - first:
+      213: 761862821209747901
+    second: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_5
+  - first:
+      213: 1140950586630926706
+    second: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_6
+  - first:
+      213: 5071048985018279803
+    second: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_7
+  - first:
+      213: 5768637416068196700
+    second: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_8
+  - first:
+      213: -6921956240588233078
+    second: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_9
+  - first:
+      213: 1949550859404454918
+    second: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_10
+  - first:
+      213: -5992811581925294012
+    second: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_11
+  - first:
+      213: 5048860789301223520
+    second: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_12
+  - first:
+      213: 182249033742280279
+    second: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_13
+  - first:
+      213: -8554618227769389241
+    second: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_14
+  - first:
+      213: 1351492457130666891
+    second: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_15
+  - first:
+      213: 2912230079381779305
+    second: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_16
+  - first:
+      213: 8855415070734462078
+    second: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_17
+  - first:
+      213: -4816865758582588472
+    second: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_18
+  - first:
+      213: -1950866867315624385
+    second: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_19
+  - first:
+      213: 5136609645847535014
+    second: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_20
+  - first:
+      213: 7983915197561940598
+    second: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_21
+  - first:
+      213: -6238419071747311234
+    second: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_22
+  - first:
+      213: 5631301786008331416
+    second: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_23
+  - first:
+      213: -8756941962776075854
+    second: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_24
+  - first:
+      213: 464816287285138424
+    second: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_25
+  - first:
+      213: -623907707103114933
+    second: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_26
+  - first:
+      213: 4528290962583868426
+    second: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_27
+  - first:
+      213: 3429679947784297763
+    second: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_28
+  - first:
+      213: 5837645301333091368
+    second: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_29
+  - first:
+      213: -5443874610658651229
+    second: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_30
+  - first:
+      213: 4032194496348889386
+    second: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_31
+  - first:
+      213: 4494864628677923787
+    second: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_32
+  - first:
+      213: -2730588386656440134
+    second: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_33
+  - first:
+      213: -8695520163160272297
+    second: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_34
+  - first:
+      213: 473538131650030646
+    second: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_35
+  - first:
+      213: 3998086012504629005
+    second: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_36
+  - first:
+      213: 6451497481585523949
+    second: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_37
+  - first:
+      213: -908082501020435708
+    second: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_38
+  - first:
+      213: -2778686555602113170
+    second: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_39
+  - first:
+      213: 3523115704249140056
+    second: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_40
+  - first:
+      213: 6929135996362360553
+    second: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_41
+  - first:
+      213: -6756318094525123811
+    second: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_42
+  - first:
+      213: 8351307508754509986
+    second: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_43
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_0
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 832
+        width: 101
+        height: 280
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3211219d6716360800000000000000
+      internalID: 7161135557178893223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_1
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 833
+        width: 105
+        height: 279
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e7c87f966e25970800000000000000
+      internalID: 8742303169478688394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_2
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 833
+        width: 125
+        height: 279
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90a18e6cb23d9d10800000000000000
+      internalID: 2133917583332712604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_3
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 833
+        width: 125
+        height: 279
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ee6f1898a582f60800000000000000
+      internalID: 8009751483915890180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_4
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 833
+        width: 211
+        height: 279
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d47b7557dbf85a80800000000000000
+      internalID: -8477749396254264105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_5
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 833
+        width: 210
+        height: 279
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1b8c9033ea29a00800000000000000
+      internalID: 761862821209747901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_6
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 833
+        width: 211
+        height: 279
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271f866738875df00800000000000000
+      internalID: 1140950586630926706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_7
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 833
+        width: 211
+        height: 279
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77ae9e2f2cff5640800000000000000
+      internalID: 5071048985018279803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_8
+      rect:
+        serializedVersion: 2
+        x: 2441
+        y: 833
+        width: 212
+        height: 279
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59a5c69a215e0050800000000000000
+      internalID: 5768637416068196700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_9
+      rect:
+        serializedVersion: 2
+        x: 2737
+        y: 833
+        width: 211
+        height: 279
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86a0f8297540ff90800000000000000
+      internalID: -6921956240588233078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_10
+      rect:
+        serializedVersion: 2
+        x: 3033
+        y: 833
+        width: 211
+        height: 279
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c2c5e6d223e0b10800000000000000
+      internalID: 1949550859404454918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_11
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 554
+        width: 210
+        height: 204
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4400f751e9145dca0800000000000000
+      internalID: -5992811581925294012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_12
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 554
+        width: 211
+        height: 204
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060a2ba4328211640800000000000000
+      internalID: 5048860789301223520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_13
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 554
+        width: 212
+        height: 204
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756edd4d78a778200800000000000000
+      internalID: 182249033742280279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_14
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 554
+        width: 227
+        height: 213
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f49b0db04e74980800000000000000
+      internalID: -8554618227769389241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_15
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 554
+        width: 227
+        height: 213
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ba4efaa3771c210800000000000000
+      internalID: 1351492457130666891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_16
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 554
+        width: 227
+        height: 213
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96332c9d3d15a6820800000000000000
+      internalID: 2912230079381779305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_17
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 554
+        width: 227
+        height: 213
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ca4cdb611c4ea70800000000000000
+      internalID: 8855415070734462078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_18
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 554
+        width: 226
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb31f80d1e072db0800000000000000
+      internalID: -4816865758582588472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_19
+      rect:
+        serializedVersion: 2
+        x: 2435
+        y: 554
+        width: 227
+        height: 225
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36b2999be02de4e0800000000000000
+      internalID: -1950866867315624385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_20
+      rect:
+        serializedVersion: 2
+        x: 2731
+        y: 554
+        width: 227
+        height: 225
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad569a0247e84740800000000000000
+      internalID: 5136609645847535014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_21
+      rect:
+        serializedVersion: 2
+        x: 3026
+        y: 554
+        width: 228
+        height: 213
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67aa58352909cce60800000000000000
+      internalID: 7983915197561940598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_22
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 276
+        width: 227
+        height: 213
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79ba7428eeac69a0800000000000000
+      internalID: -6238419071747311234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_23
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 276
+        width: 227
+        height: 213
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894ac027327662e40800000000000000
+      internalID: 5631301786008331416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_24
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 276
+        width: 226
+        height: 213
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1250e5ea7197680800000000000000
+      internalID: -8756941962776075854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_25
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 276
+        width: 227
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3527953fb537600800000000000000
+      internalID: 464816287285138424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_26
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 276
+        width: 227
+        height: 224
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b498d79fe3f6757f0800000000000000
+      internalID: -623907707103114933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_27
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 276
+        width: 227
+        height: 224
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a045c6873a8b7de30800000000000000
+      internalID: 4528290962583868426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_28
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 276
+        width: 225
+        height: 213
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d96f4cdbba89f20800000000000000
+      internalID: 3429679947784297763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_29
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 276
+        width: 226
+        height: 213
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824efaee87b730150800000000000000
+      internalID: 5837645301333091368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_30
+      rect:
+        serializedVersion: 2
+        x: 2435
+        y: 276
+        width: 226
+        height: 213
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a35ced62e87374b0800000000000000
+      internalID: -5443874610658651229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_31
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 276
+        width: 225
+        height: 213
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21292ce78b35f730800000000000000
+      internalID: 4032194496348889386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_32
+      rect:
+        serializedVersion: 2
+        x: 3028
+        y: 276
+        width: 225
+        height: 213
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3d0d1a097f06e30800000000000000
+      internalID: 4494864628677923787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_33
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 225
+        height: 216
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0398164500b1ad0800000000000000
+      internalID: -2730588386656440134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_34
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 0
+        width: 226
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752d5918b7e435780800000000000000
+      internalID: -8695520163160272297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_35
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 0
+        width: 226
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c2a9cfb68529600800000000000000
+      internalID: 473538131650030646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_36
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 0
+        width: 225
+        height: 212
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fdbccab0e0c7730800000000000000
+      internalID: 3998086012504629005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_37
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 0
+        width: 225
+        height: 211
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec7b3b27c2588950800000000000000
+      internalID: 6451497481585523949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_38
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 0
+        width: 225
+        height: 211
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bbdebc6c7d563f0800000000000000
+      internalID: -908082501020435708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_39
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 0
+        width: 225
+        height: 212
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6dae2fbc4f1079d0800000000000000
+      internalID: -2778686555602113170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_40
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 0
+        width: 226
+        height: 212
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853ce56111f94e030800000000000000
+      internalID: 3523115704249140056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_41
+      rect:
+        serializedVersion: 2
+        x: 2435
+        y: 0
+        width: 226
+        height: 216
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e60d8ff97c392060800000000000000
+      internalID: 6929135996362360553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_42
+      rect:
+        serializedVersion: 2
+        x: 2731
+        y: 0
+        width: 226
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1339425d7cbc32a0800000000000000
+      internalID: -6756318094525123811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632_43
+      rect:
+        serializedVersion: 2
+        x: 3028
+        y: 0
+        width: 225
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a07d5d9eedc5e370800000000000000
+      internalID: 8351307508754509986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

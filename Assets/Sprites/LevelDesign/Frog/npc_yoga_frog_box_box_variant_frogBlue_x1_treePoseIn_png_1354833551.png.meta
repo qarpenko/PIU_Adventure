@@ -1,0 +1,684 @@
+fileFormatVersion: 2
+guid: 76e12ed09d66dbc4aa9b55d00b472f8f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2704776951537073942
+    second: npc_yoga_frog_box_box_variant_frogBlue_x1_treePoseIn_png_1354833551_0
+  - first:
+      213: -3124321378849275315
+    second: npc_yoga_frog_box_box_variant_frogBlue_x1_treePoseIn_png_1354833551_1
+  - first:
+      213: -3922049153716174310
+    second: npc_yoga_frog_box_box_variant_frogBlue_x1_treePoseIn_png_1354833551_2
+  - first:
+      213: 4922778020525109429
+    second: npc_yoga_frog_box_box_variant_frogBlue_x1_treePoseIn_png_1354833551_3
+  - first:
+      213: -2644804445458222095
+    second: npc_yoga_frog_box_box_variant_frogBlue_x1_treePoseIn_png_1354833551_4
+  - first:
+      213: 3104205600111657415
+    second: npc_yoga_frog_box_box_variant_frogBlue_x1_treePoseIn_png_1354833551_5
+  - first:
+      213: 7808547614073974228
+    second: npc_yoga_frog_box_box_variant_frogBlue_x1_treePoseIn_png_1354833551_6
+  - first:
+      213: 8599123069946435723
+    second: npc_yoga_frog_box_box_variant_frogBlue_x1_treePoseIn_png_1354833551_7
+  - first:
+      213: 4431765252141214236
+    second: npc_yoga_frog_box_box_variant_frogBlue_x1_treePoseIn_png_1354833551_8
+  - first:
+      213: -2653545617748770593
+    second: npc_yoga_frog_box_box_variant_frogBlue_x1_treePoseIn_png_1354833551_9
+  - first:
+      213: 7430926478450151497
+    second: npc_yoga_frog_box_box_variant_frogBlue_x1_treePoseIn_png_1354833551_10
+  - first:
+      213: 8527488084126118860
+    second: npc_yoga_frog_box_box_variant_frogBlue_x1_treePoseIn_png_1354833551_11
+  - first:
+      213: 1281639250210197063
+    second: npc_yoga_frog_box_box_variant_frogBlue_x1_treePoseIn_png_1354833551_12
+  - first:
+      213: 7807371720687368406
+    second: npc_yoga_frog_box_box_variant_frogBlue_x1_treePoseIn_png_1354833551_13
+  - first:
+      213: 6874953307523377064
+    second: npc_yoga_frog_box_box_variant_frogBlue_x1_treePoseIn_png_1354833551_14
+  - first:
+      213: -432331053456438011
+    second: npc_yoga_frog_box_box_variant_frogBlue_x1_treePoseIn_png_1354833551_15
+  - first:
+      213: 3582615603995866638
+    second: npc_yoga_frog_box_box_variant_frogBlue_x1_treePoseIn_png_1354833551_16
+  - first:
+      213: -7537683268979015714
+    second: npc_yoga_frog_box_box_variant_frogBlue_x1_treePoseIn_png_1354833551_17
+  - first:
+      213: 4841330422492465107
+    second: npc_yoga_frog_box_box_variant_frogBlue_x1_treePoseIn_png_1354833551_18
+  - first:
+      213: 8510567529057780878
+    second: npc_yoga_frog_box_box_variant_frogBlue_x1_treePoseIn_png_1354833551_19
+  - first:
+      213: -8419062421704872290
+    second: npc_yoga_frog_box_box_variant_frogBlue_x1_treePoseIn_png_1354833551_20
+  - first:
+      213: 5468304119327807407
+    second: npc_yoga_frog_box_box_variant_frogBlue_x1_treePoseIn_png_1354833551_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_yoga_frog_box_box_variant_frogBlue_x1_treePoseIn_png_1354833551_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 225
+        width: 41
+        height: 56
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae008fe61b3b67ad0800000000000000
+      internalID: -2704776951537073942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_yoga_frog_box_box_variant_frogBlue_x1_treePoseIn_png_1354833551_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 223
+        width: 41
+        height: 58
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42c781624e24a4d0800000000000000
+      internalID: -3124321378849275315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_yoga_frog_box_box_variant_frogBlue_x1_treePoseIn_png_1354833551_2
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 218
+        width: 42
+        height: 63
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12402913151299c0800000000000000
+      internalID: -3922049153716174310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_yoga_frog_box_box_variant_frogBlue_x1_treePoseIn_png_1354833551_3
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 209
+        width: 48
+        height: 72
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0ff751788315440800000000000000
+      internalID: 4922778020525109429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_yoga_frog_box_box_variant_frogBlue_x1_treePoseIn_png_1354833551_4
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 198
+        width: 51
+        height: 83
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3b610ae54cb4bd0800000000000000
+      internalID: -2644804445458222095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_yoga_frog_box_box_variant_frogBlue_x1_treePoseIn_png_1354833551_5
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 192
+        width: 53
+        height: 89
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c10f68eb8a541b20800000000000000
+      internalID: 3104205600111657415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_yoga_frog_box_box_variant_frogBlue_x1_treePoseIn_png_1354833551_6
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 189
+        width: 53
+        height: 92
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd6a9cfea88d5c60800000000000000
+      internalID: 7808547614073974228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_yoga_frog_box_box_variant_frogBlue_x1_treePoseIn_png_1354833551_7
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 189
+        width: 53
+        height: 92
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88160c3fd8365770800000000000000
+      internalID: 8599123069946435723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_yoga_frog_box_box_variant_frogBlue_x1_treePoseIn_png_1354833551_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 95
+        width: 53
+        height: 92
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1aebcd240bc08d30800000000000000
+      internalID: 4431765252141214236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_yoga_frog_box_box_variant_frogBlue_x1_treePoseIn_png_1354833551_9
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 96
+        width: 52
+        height: 91
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd04acad156bc2bd0800000000000000
+      internalID: -2653545617748770593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_yoga_frog_box_box_variant_frogBlue_x1_treePoseIn_png_1354833551_10
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 96
+        width: 50
+        height: 91
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940d01ce244ff1760800000000000000
+      internalID: 7430926478450151497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_yoga_frog_box_box_variant_frogBlue_x1_treePoseIn_png_1354833551_11
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 97
+        width: 47
+        height: 90
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3b6b06b39b75670800000000000000
+      internalID: 8527488084126118860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_yoga_frog_box_box_variant_frogBlue_x1_treePoseIn_png_1354833551_12
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 97
+        width: 47
+        height: 90
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e0afe8b1c49c110800000000000000
+      internalID: 1281639250210197063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_yoga_frog_box_box_variant_frogBlue_x1_treePoseIn_png_1354833551_13
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 97
+        width: 47
+        height: 90
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d83009f63b595c60800000000000000
+      internalID: 7807371720687368406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_yoga_frog_box_box_variant_frogBlue_x1_treePoseIn_png_1354833551_14
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 97
+        width: 44
+        height: 90
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7e35eab9db86f50800000000000000
+      internalID: 6874953307523377064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_yoga_frog_box_box_variant_frogBlue_x1_treePoseIn_png_1354833551_15
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 97
+        width: 39
+        height: 90
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50dcb5d823d000af0800000000000000
+      internalID: -432331053456438011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_yoga_frog_box_box_variant_frogBlue_x1_treePoseIn_png_1354833551_16
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 3
+        width: 38
+        height: 90
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06f1fa09e108b130800000000000000
+      internalID: 3582615603995866638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_yoga_frog_box_box_variant_frogBlue_x1_treePoseIn_png_1354833551_17
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 3
+        width: 38
+        height: 90
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfb913d005c46790800000000000000
+      internalID: -7537683268979015714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_yoga_frog_box_box_variant_frogBlue_x1_treePoseIn_png_1354833551_18
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 3
+        width: 38
+        height: 90
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d784f86e5cdf2340800000000000000
+      internalID: 4841330422492465107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_yoga_frog_box_box_variant_frogBlue_x1_treePoseIn_png_1354833551_19
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 3
+        width: 38
+        height: 90
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e848676a31c9b1670800000000000000
+      internalID: 8510567529057780878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_yoga_frog_box_box_variant_frogBlue_x1_treePoseIn_png_1354833551_20
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 3
+        width: 38
+        height: 90
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ee074655b792b80800000000000000
+      internalID: -8419062421704872290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_yoga_frog_box_box_variant_frogBlue_x1_treePoseIn_png_1354833551_21
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 3
+        width: 38
+        height: 90
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7d65ccf9153eb40800000000000000
+      internalID: 5468304119327807407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,564 @@
+fileFormatVersion: 2
+guid: d8a0bc76ffaf0d54ca7c0e6e5e0a7b1d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1950202780891589476
+    second: BigFish_0
+  - first:
+      213: -3146502391882959501
+    second: BigFish_1
+  - first:
+      213: 1907766895769918698
+    second: BigFish_2
+  - first:
+      213: -9163780097105358071
+    second: BigFish_3
+  - first:
+      213: 4815319476177496635
+    second: BigFish_4
+  - first:
+      213: -922230438725191906
+    second: BigFish_5
+  - first:
+      213: 6124818556560766100
+    second: BigFish_6
+  - first:
+      213: -1183876658063638438
+    second: BigFish_7
+  - first:
+      213: -6916404086449049217
+    second: BigFish_8
+  - first:
+      213: -7244279718526786231
+    second: BigFish_9
+  - first:
+      213: -6072909096711764836
+    second: BigFish_10
+  - first:
+      213: 152639127889417818
+    second: BigFish_11
+  - first:
+      213: 2676851335766146398
+    second: BigFish_12
+  - first:
+      213: 9077465748794009171
+    second: BigFish_13
+  - first:
+      213: -7199720735336680465
+    second: BigFish_14
+  - first:
+      213: 8118884133745110060
+    second: BigFish_17
+  - first:
+      213: 5756803918060799979
+    second: BigFish_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BigFish_0
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1833
+        width: 226
+        height: 204
+      alignment: 9
+      pivot: {x: 0.86994505, y: 0.0901585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ba50bb813801b10800000000000000
+      internalID: 1950202780891589476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFish_1
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1934
+        width: 198
+        height: 108
+      alignment: 9
+      pivot: {x: 0.08915171, y: 0.1652346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37536e6deb06554d0800000000000000
+      internalID: -3146502391882959501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFish_2
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1931
+        width: 112
+        height: 106
+      alignment: 9
+      pivot: {x: 0.15701567, y: 0.8623991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec9d9842efb97a10800000000000000
+      internalID: 1907766895769918698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFish_3
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1959
+        width: 114
+        height: 48
+      alignment: 9
+      pivot: {x: 0.1630324, y: 0.35876974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9039d30bd86b3d080800000000000000
+      internalID: -9163780097105358071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFish_4
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1273
+        width: 1446
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a64990d8373d240800000000000000
+      internalID: 4815319476177496635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFish_5
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 897
+        width: 515
+        height: 338
+      alignment: 9
+      pivot: {x: 0.4868368, y: 0.17241529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e177bba5d449333f0800000000000000
+      internalID: -922230438725191906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFish_6
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1230
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4947689c60abff450800000000000000
+      internalID: 6124818556560766100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFish_7
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 936
+        width: 245
+        height: 216
+      alignment: 9
+      pivot: {x: 0.84125555, y: 0.7824577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a508d32b376029fe0800000000000000
+      internalID: -1183876658063638438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFish_8
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 895
+        width: 268
+        height: 204
+      alignment: 9
+      pivot: {x: 0.09528385, y: 0.8433802}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71f428c02ff300a0800000000000000
+      internalID: -6916404086449049217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFish_9
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 704
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945e4a35af5277b90800000000000000
+      internalID: -7244279718526786231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFish_10
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 686
+        width: 87
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94c1492a51b8bba0800000000000000
+      internalID: -6072909096711764836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFish_11
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 502
+        width: 588
+        height: 272
+      alignment: 9
+      pivot: {x: 0.4841128, y: 0.23383152}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a569ca46a784e1200800000000000000
+      internalID: 152639127889417818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFish_12
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 474
+        width: 260
+        height: 187
+      alignment: 9
+      pivot: {x: 0.39221168, y: 0.31891227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5dfed87b16162520800000000000000
+      internalID: 2676851335766146398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFish_13
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 473
+        width: 273
+        height: 219
+      alignment: 9
+      pivot: {x: 0.36312586, y: 0.31338042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35664a90103a9fd70800000000000000
+      internalID: 9077465748794009171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFish_14
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 32
+        width: 424
+        height: 536
+      alignment: 9
+      pivot: {x: 0.020799601, y: 0.5174286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe33e301324751c90800000000000000
+      internalID: -7199720735336680465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFish_17
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 127
+        width: 267
+        height: 172
+      alignment: 9
+      pivot: {x: 0.28570172, y: 0.8190831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cae6c9a121ca070800000000000000
+      internalID: 8118884133745110060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFish_18
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 99
+        width: 277
+        height: 229
+      alignment: 9
+      pivot: {x: 0.25549823, y: 0.8620406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be74791a9a644ef40800000000000000
+      internalID: 5756803918060799979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

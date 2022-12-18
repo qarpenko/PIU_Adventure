@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: bff9816cc2a116744b1379c8e3f0c450
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7074191733138186910
+    second: MyGirlParts31_v_0
+  - first:
+      213: -5521275260316084005
+    second: MyGirlParts31_v_1
+  - first:
+      213: 4020131894437695936
+    second: MyGirlParts31_v_2
+  - first:
+      213: 3964756785597106149
+    second: MyGirlParts31_v_3
+  - first:
+      213: 6619689482963182736
+    second: MyGirlParts31_v_4
+  - first:
+      213: -2108557760080361024
+    second: MyGirlParts31_v_6
+  - first:
+      213: -4862451758035320579
+    second: MyGirlParts31_v_7
+  - first:
+      213: 7253073044663895921
+    second: MyGirlParts31_v_9
+  - first:
+      213: 8307726491570769845
+    second: MyGirlParts31_v_11
+  - first:
+      213: 8967279795112248839
+    second: MyGirlParts31_v_12
+  - first:
+      213: -7668459131982624580
+    second: MyGirlParts31_v_13
+  - first:
+      213: 3858740452148609025
+    second: MyGirlParts31_v_14
+  - first:
+      213: 5256921238610218949
+    second: MyGirlParts31_v_16
+  - first:
+      213: 7203813286952645270
+    second: MyGirlParts31_v_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 600
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MyGirlParts31_v_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 857
+        width: 168
+        height: 726
+      alignment: 9
+      pivot: {x: 0.7153327, y: 0.9407942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d1b41791c63dd90800000000000000
+      internalID: -7074191733138186910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyGirlParts31_v_1
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 854
+        width: 158
+        height: 741
+      alignment: 9
+      pivot: {x: 0.64089906, y: 0.93938214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd815b9576d7063b0800000000000000
+      internalID: -5521275260316084005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyGirlParts31_v_2
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1087
+        width: 171
+        height: 164
+      alignment: 9
+      pivot: {x: 0.2631547, y: 0.64476573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c15d2e88a06ac730800000000000000
+      internalID: 4020131894437695936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyGirlParts31_v_3
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 991
+        width: 699
+        height: 686
+      alignment: 9
+      pivot: {x: 0.51592433, y: 0.09435092}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7c5525a45a50730800000000000000
+      internalID: 3964756785597106149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyGirlParts31_v_4
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 658
+        width: 206
+        height: 298
+      alignment: 9
+      pivot: {x: 0.8242048, y: 0.88286185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094e86b138cdddb50800000000000000
+      internalID: 6619689482963182736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyGirlParts31_v_6
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 688
+        width: 183
+        height: 180
+      alignment: 9
+      pivot: {x: 0.8497451, y: 0.85949445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9440a83e5ecb2e0800000000000000
+      internalID: -2108557760080361024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyGirlParts31_v_7
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 662
+        width: 226
+        height: 209
+      alignment: 9
+      pivot: {x: 0.8201402, y: 0.8280949}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0c4d073e9158cb0800000000000000
+      internalID: -4862451758035320579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyGirlParts31_v_9
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 445
+        width: 272
+        height: 322
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.17160062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1770725718718a460800000000000000
+      internalID: 7253073044663895921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyGirlParts31_v_11
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 429
+        width: 27
+        height: 77
+      alignment: 9
+      pivot: {x: 0.7092986, y: 0.89140934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf8d255a39fa4370800000000000000
+      internalID: 8307726491570769845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyGirlParts31_v_12
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 442
+        width: 119
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7060435867d227c70800000000000000
+      internalID: 8967279795112248839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyGirlParts31_v_13
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 428
+        width: 119
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb843977c09249590800000000000000
+      internalID: -7668459131982624580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyGirlParts31_v_14
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 107
+        width: 500
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1008fba2ffffc8530800000000000000
+      internalID: 3858740452148609025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyGirlParts31_v_16
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 210
+        width: 550
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf819f930654f840800000000000000
+      internalID: 5256921238610218949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyGirlParts31_v_18
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 70
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6923d0d540619f360800000000000000
+      internalID: 7203813286952645270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

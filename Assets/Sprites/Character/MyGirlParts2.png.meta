@@ -1,0 +1,444 @@
+fileFormatVersion: 2
+guid: 8d48e63fda0655b4fa8f753007195bdb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8481179550539289014
+    second: MyGirlParts2_0
+  - first:
+      213: -2794375504754444614
+    second: MyGirlParts2_1
+  - first:
+      213: 8565722644091466525
+    second: MyGirlParts2_2
+  - first:
+      213: 4016761408515684484
+    second: MyGirlParts2_3
+  - first:
+      213: -2851004494955989225
+    second: MyGirlParts2_4
+  - first:
+      213: 5785655799739580090
+    second: MyGirlParts2_5
+  - first:
+      213: -8769965059200682415
+    second: MyGirlParts2_6
+  - first:
+      213: 7533425523115833400
+    second: MyGirlParts2_7
+  - first:
+      213: -7012856343322476793
+    second: MyGirlParts2_8
+  - first:
+      213: -6261272593830824196
+    second: MyGirlParts2_9
+  - first:
+      213: -8103130110824054203
+    second: MyGirlParts2_10
+  - first:
+      213: -1445164203211629282
+    second: MyGirlParts2_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 600
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MyGirlParts2_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1106
+        width: 110
+        height: 555
+      alignment: 9
+      pivot: {x: 0.32291612, y: 0.9412294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e6ccd422ccc4a80800000000000000
+      internalID: -8481179550539289014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyGirlParts2_1
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1103
+        width: 118
+        height: 555
+      alignment: 9
+      pivot: {x: 0.35850474, y: 0.9412294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6fe0e98426839d0800000000000000
+      internalID: -2794375504754444614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyGirlParts2_2
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1103
+        width: 118
+        height: 555
+      alignment: 9
+      pivot: {x: 0.3349219, y: 0.9211736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1377959c5f8fd670800000000000000
+      internalID: 8565722644091466525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyGirlParts2_3
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1055
+        width: 816
+        height: 602
+      alignment: 9
+      pivot: {x: 0.5034103, y: 0.1533116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488331628376eb730800000000000000
+      internalID: 4016761408515684484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyGirlParts2_4
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 790
+        width: 344
+        height: 195
+      alignment: 9
+      pivot: {x: 0.54853654, y: 0.94238627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7173b1164823f68d0800000000000000
+      internalID: -2851004494955989225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyGirlParts2_5
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 710
+        width: 169
+        height: 236
+      alignment: 9
+      pivot: {x: 0.779922, y: 0.8773227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abef720db47ca4050800000000000000
+      internalID: 5785655799739580090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyGirlParts2_6
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 710
+        width: 183
+        height: 210
+      alignment: 9
+      pivot: {x: 0.9866016, y: 0.9902948}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15671c17e33da4680800000000000000
+      internalID: -8769965059200682415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyGirlParts2_7
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 710
+        width: 194
+        height: 258
+      alignment: 9
+      pivot: {x: 0.5143445, y: 0.26271117}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8383e27799a1c8860800000000000000
+      internalID: 7533425523115833400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyGirlParts2_8
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 445
+        width: 225
+        height: 273
+      alignment: 9
+      pivot: {x: 0.5123679, y: 0.23497596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f3b6bbf445dae90800000000000000
+      internalID: -7012856343322476793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyGirlParts2_9
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 492
+        width: 121
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf633d2efbd7b19a0800000000000000
+      internalID: -6261272593830824196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyGirlParts2_10
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 492
+        width: 121
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5428f8fa816eb8f80800000000000000
+      internalID: -8103130110824054203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyGirlParts2_12
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 380
+        width: 49
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1dd57160deb1fbe0800000000000000
+      internalID: -1445164203211629282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

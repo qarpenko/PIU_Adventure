@@ -1,0 +1,708 @@
+fileFormatVersion: 2
+guid: 5a99ab5b2974799488755d47dcde5ba6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8715956108160990471
+    second: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_0
+  - first:
+      213: 3326696131342353921
+    second: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_1
+  - first:
+      213: -6527899763285298833
+    second: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_2
+  - first:
+      213: -6598264827935091554
+    second: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_3
+  - first:
+      213: 6927561716058399712
+    second: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_4
+  - first:
+      213: -2475847832425430247
+    second: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_5
+  - first:
+      213: -8013149843906743287
+    second: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_6
+  - first:
+      213: -2628204064742768599
+    second: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_7
+  - first:
+      213: 2492367159926288273
+    second: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_8
+  - first:
+      213: 1358136861961673702
+    second: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_9
+  - first:
+      213: 6896522032161446700
+    second: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_10
+  - first:
+      213: -3646335999585217164
+    second: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_11
+  - first:
+      213: 1644582168211204363
+    second: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_12
+  - first:
+      213: 5720188074400812029
+    second: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_13
+  - first:
+      213: -7945645515663014452
+    second: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_14
+  - first:
+      213: 659747280642893727
+    second: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_15
+  - first:
+      213: 5123284559657340745
+    second: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_16
+  - first:
+      213: 5862488600242891153
+    second: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_17
+  - first:
+      213: 2770835105812035056
+    second: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_18
+  - first:
+      213: 3541454404799877740
+    second: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_19
+  - first:
+      213: -7633993875891452126
+    second: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_20
+  - first:
+      213: 5557163609089544064
+    second: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_21
+  - first:
+      213: -5182751015943364548
+    second: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 225
+        width: 41
+        height: 56
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70df4d8b6eb45f870800000000000000
+      internalID: 8715956108160990471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 224
+        width: 42
+        height: 57
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106c350818cca2e20800000000000000
+      internalID: 3326696131342353921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_2
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 220
+        width: 46
+        height: 61
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61f50860cd3865a0800000000000000
+      internalID: -6527899763285298833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_3
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 215
+        width: 51
+        height: 66
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9499fc19114e64a0800000000000000
+      internalID: -6598264827935091554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_4
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 207
+        width: 59
+        height: 74
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3a14d4da4a32060800000000000000
+      internalID: 6927561716058399712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_5
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 198
+        width: 73
+        height: 83
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9138c56938504add0800000000000000
+      internalID: -2475847832425430247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_6
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 188
+        width: 87
+        height: 93
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90436f52ca29bc090800000000000000
+      internalID: -8013149843906743287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_7
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 189
+        width: 88
+        height: 92
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92005c3f35eb68bd0800000000000000
+      internalID: -2628204064742768599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 98
+        width: 85
+        height: 89
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f61411abaa69220800000000000000
+      internalID: 2492367159926288273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_9
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 100
+        width: 83
+        height: 87
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebd69db74219d210800000000000000
+      internalID: 1358136861961673702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_10
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 101
+        width: 86
+        height: 86
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b53a8bf3e55bf50800000000000000
+      internalID: 6896522032161446700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_11
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 102
+        width: 87
+        height: 85
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475110d3abc956dc0800000000000000
+      internalID: -3646335999585217164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_12
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 103
+        width: 88
+        height: 84
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09ab24c4cab2d610800000000000000
+      internalID: 1644582168211204363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_13
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 103
+        width: 88
+        height: 84
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb061f2fb0326f40800000000000000
+      internalID: 5720188074400812029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_14
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 103
+        width: 89
+        height: 84
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc50bb750856bb190800000000000000
+      internalID: -7945645515663014452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_15
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 103
+        width: 90
+        height: 84
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97ef3008a4e72900800000000000000
+      internalID: 659747280642893727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 10
+        width: 92
+        height: 83
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f8e95a920991740800000000000000
+      internalID: 5123284559657340745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_17
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 10
+        width: 94
+        height: 83
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1992145325ebb5150800000000000000
+      internalID: 5862488600242891153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_18
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 10
+        width: 96
+        height: 83
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5bb1529dbf37620800000000000000
+      internalID: 2770835105812035056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_19
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 11
+        width: 97
+        height: 82
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62d65a8406c52130800000000000000
+      internalID: 3541454404799877740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_20
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 11
+        width: 99
+        height: 82
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2278bf9340b9e0690800000000000000
+      internalID: -7633993875891452126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_21
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 11
+        width: 99
+        height: 82
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f828efbd20f1d40800000000000000
+      internalID: 5557163609089544064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_22
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 12
+        width: 99
+        height: 81
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30a66f096b2318b0800000000000000
+      internalID: -5182751015943364548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

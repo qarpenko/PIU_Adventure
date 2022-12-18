@@ -1,0 +1,660 @@
+fileFormatVersion: 2
+guid: 2d02dc28e2879984aae51661160cd1b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8177891167078402442
+    second: vera-reingard-a4_0
+  - first:
+      213: -8700734524387161510
+    second: vera-reingard-a4_1
+  - first:
+      213: -2750168865391769197
+    second: vera-reingard-a4_2
+  - first:
+      213: -3350856203636774728
+    second: vera-reingard-a4_3
+  - first:
+      213: 4895043954046637241
+    second: vera-reingard-a4_4
+  - first:
+      213: 8303430491590648807
+    second: vera-reingard-a4_5
+  - first:
+      213: -8704128291621717773
+    second: vera-reingard-a4_6
+  - first:
+      213: 404615353703416075
+    second: vera-reingard-a4_7
+  - first:
+      213: 4328483836939353115
+    second: vera-reingard-a4_8
+  - first:
+      213: 4449389274197013311
+    second: vera-reingard-a4_9
+  - first:
+      213: 5395049884895039323
+    second: vera-reingard-a4_10
+  - first:
+      213: 7829459908445387531
+    second: vera-reingard-a4_12
+  - first:
+      213: 1320125649803647430
+    second: vera-reingard-a4_19
+  - first:
+      213: 3054998318971171245
+    second: vera-reingard-a4_20
+  - first:
+      213: -4634161080691627799
+    second: vera-reingard-a4_21
+  - first:
+      213: -1122954535243892749
+    second: vera-reingard-a4_22
+  - first:
+      213: -6001314801444155525
+    second: vera-reingard-a4_23
+  - first:
+      213: -4399154078495093439
+    second: vera-reingard-a4_24
+  - first:
+      213: -3853935811844282352
+    second: vera-reingard-a4_25
+  - first:
+      213: -5316654272151202795
+    second: vera-reingard-a4_11
+  - first:
+      213: 3588636444567790436
+    second: vera-reingard-a4_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vera-reingard-a4_0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1014
+        width: 338
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89438920b4bd7170800000000000000
+      internalID: 8177891167078402442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vera-reingard-a4_1
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1018
+        width: 341
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a0dec6c08c04780800000000000000
+      internalID: -8700734524387161510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vera-reingard-a4_2
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1010
+        width: 337
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3990cf9ecff65d9d0800000000000000
+      internalID: -2750168865391769197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vera-reingard-a4_3
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1134
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8e0d0590e5f71d0800000000000000
+      internalID: -3350856203636774728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vera-reingard-a4_4
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 1128
+        width: 101
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b49fd88a80bee340800000000000000
+      internalID: 4895043954046637241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vera-reingard-a4_5
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1119
+        width: 97
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e36864e906bb3370800000000000000
+      internalID: 8303430491590648807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vera-reingard-a4_6
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 1120
+        width: 122
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8b57a6f69b43780800000000000000
+      internalID: -8704128291621717773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vera-reingard-a4_7
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 768
+        width: 338
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01492c358b7d9500800000000000000
+      internalID: 404615353703416075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vera-reingard-a4_8
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 439
+        width: 325
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c3acccd1dd11c30800000000000000
+      internalID: 4328483836939353115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vera-reingard-a4_9
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 771
+        width: 333
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3332f398f76fbd30800000000000000
+      internalID: 4449389274197013311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vera-reingard-a4_10
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 769
+        width: 329
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f4eae39411fda40800000000000000
+      internalID: 5395049884895039323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vera-reingard-a4_12
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 1018
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bbc02fd44d7ac60800000000000000
+      internalID: 7829459908445387531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vera-reingard-a4_19
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 1014
+        width: 102
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c99d6fb847025210800000000000000
+      internalID: 1320125649803647430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vera-reingard-a4_20
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 429
+        width: 320
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da131b7f8c8856a20800000000000000
+      internalID: 3054998318971171245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vera-reingard-a4_21
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 433
+        width: 287
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e86f69cc0720bfb0800000000000000
+      internalID: -4634161080691627799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vera-reingard-a4_22
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 117
+        width: 607
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7bfd3ccc67a60f0800000000000000
+      internalID: -1122954535243892749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vera-reingard-a4_23
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 131
+        width: 325
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f80a20cfb07bca0800000000000000
+      internalID: -6001314801444155525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vera-reingard-a4_24
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 129
+        width: 315
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14dc61f5ca013f2c0800000000000000
+      internalID: -4399154078495093439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vera-reingard-a4_25
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 131
+        width: 287
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0186dd35cc1148ac0800000000000000
+      internalID: -3853935811844282352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vera-reingard-a4_11
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 1019
+        width: 102
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5145ddabb137736b0800000000000000
+      internalID: -5316654272151202795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vera-reingard-a4_13
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 1020
+        width: 78
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463eb7a35d56dc130800000000000000
+      internalID: 3588636444567790436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
